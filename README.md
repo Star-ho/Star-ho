@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Star-ho
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning node.js, Nest.js, etc...
-- 📫 How to reach me twitter @starho20
+Backend Engineer
 
-안녕하세요
+interest
+Nest.js
+node.js
+javascript
 
-매일 성장하고 싶은 개발자 황성호입니다.
-
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=깃헙블로그링크)]
+[![twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?logo=twitter&logoColor=white&link=http://twitter.com/@starho20)]
