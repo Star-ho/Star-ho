@@ -3,7 +3,7 @@ Hello! I'm Sungho :wave:
 
 
  -  💼 I’m currently working on The Pirates
- - :book: I’m currently learning Clean Code and TDD
+ - :books: I’m currently learning Clean Code and TDD
  - 💬 Ask me about Clean Code
 
 ## SKills
