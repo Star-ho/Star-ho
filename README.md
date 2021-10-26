@@ -7,7 +7,7 @@ Hello! I'm Sungho :wave:
  - 💬 Ask me about Clean Code
 
 ## SKills
- - :books: Javam Kotlin, NodeJs
+ - :books: Java, Kotlin, NodeJs
  - :hammer: Spring, express, JPA
 
 
