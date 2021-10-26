@@ -2,12 +2,12 @@ Hello! I'm Sungho :wave:
 ===========
 
 
- - 🔭 I’m currently working on The Pirates
+ -  💼 I’m currently working on The Pirates
  - :book: I’m currently learning Clean Code and TDD
  - 💬 Ask me about Clean Code
 
 ## SKills
- - java kotlin javascipt 
+ - :pencil2:java kotlin javascipt 
  - Spring, express, JPA
 
 
