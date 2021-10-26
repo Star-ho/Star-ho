@@ -7,8 +7,8 @@ Hello! I'm Sungho :wave:
  - 💬 Ask me about Clean Code
 
 ## SKills
- - :pencil2:java kotlin javascipt 
- - Spring, express, JPA
+ - :pencil2: Javam Kotlin, NodeJs
+ - :hammer: Spring, express, JPA
 
 
 <div align=center>     
