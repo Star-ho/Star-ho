@@ -2,10 +2,14 @@ Hello! I'm Sungho :wave:
 ===========
 
 
- - 🔭 I’m currently working on A Platform for Hackathons in Kerala
+ - 🔭 I’m currently working on The Pirates
  - 🌱 I’m currently learning Java and Kotlin
  - 💬 Ask me about Clean Code
- 
+
+## SKills
+ - java kotlin javascipt 
+ - Spring, express, JPA
+
 
 <div align=center>     
  
