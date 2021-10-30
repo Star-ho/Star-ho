@@ -1,7 +1,7 @@
 Hello! I'm Sungho :wave:
 ===========
-
-
+## Clean code reads like well-written prose. Clean code never obscures the designer’s intent but rather is full of crisp abstractions and straightforward lines of contro
+Grady Booch
  - 💼 I’m currently working on The Pirates
  - 🌱 I’m currently learning Clean Code and TDD
  - 💬 Ask me about Clean Code
