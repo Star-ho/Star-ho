@@ -3,7 +3,7 @@ Hello! I'm Sungho :wave:
  - 💼 I’m currently working on The Pirates
  - 🌱 I’m currently learning Clean Code and TDD
  - 💬 Ask me about Clean Code
- - :thought_balloon:I think Clean code reads like well-written prose(Grady Booch) 
+ - :thought_balloon:I think Clean code reads like well-written prose -Grady Booch
 
 ## SKills
  - :books: Java, Kotlin, NodeJs
