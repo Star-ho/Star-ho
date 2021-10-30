@@ -9,7 +9,8 @@ Hello! I'm Sungho :wave:
  - :books: Java, Kotlin, NodeJs
  - :hammer: Spring, express, JPA
 
-### Clean code reads like well-written prose. Clean code never obscures the designer’s intent but rather is full of crisp abstractions and straightforward lines of contro
+#### Clean code reads like well-written prose. 
+#### Clean code never obscures the designer’s intent but rather is full of crisp abstractions and straightforward lines of contro
 Grady Booch
 
 <div align=center>     
