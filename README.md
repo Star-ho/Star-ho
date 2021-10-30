@@ -1,17 +1,16 @@
 Hello! I'm Sungho :wave:
 ===========
-
  - 💼 I’m currently working on The Pirates
  - 🌱 I’m currently learning Clean Code and TDD
  - 💬 Ask me about Clean Code
+ - :thought_balloon:I think Clean code reads like well-written prose(Grady Booch) 
 
 ## SKills
  - :books: Java, Kotlin, NodeJs
  - :hammer: Spring, express, JPA
 
-<h4>Clean code reads like well-written prose. 
 
-Clean code never obscures the designer’s intent but rather is full of crisp abstractions and straightforward lines of contro</h4>
+
 <div align=right>
  - Grady Booch</div>
 <div align=center>     
