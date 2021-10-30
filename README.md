@@ -10,8 +10,9 @@ Hello! I'm Sungho :wave:
  - :hammer: Spring, express, JPA
 
 #### Clean code reads like well-written prose. 
-#### Clean code never obscures the designer’s intent but rather is full of crisp abstractions and straightforward lines of contro
-Grady Booch
+Clean code never obscures the designer’s intent but rather is full of crisp abstractions and straightforward lines of contro
+<div align=right>
+Grady Booch</div>
 
 <div align=center>     
  
