@@ -12,8 +12,10 @@ Hello! I'm Sungho :wave:
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) 
 
- - ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white) 
+- ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?&style=flat&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white) 
+
+- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 
 
