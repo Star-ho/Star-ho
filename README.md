@@ -6,9 +6,11 @@ Hello! I'm Sungho :wave:
  - :thought_balloon:I think Clean code reads like well-written prose -Grady Booch
 
 ## SKills
- - :books: Java, Kotlin, NodeJs
- - :hammer: Spring, express, JPA
+ - :: Java, Kotlin, NodeJs
+ - :: Spring, express, 
+ - :: JPA, mybatis, Mysql
   
 <div align="center">
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github)](http://star-ho.github.io) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1DA1F2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/starho/0)
+ <a href="http://star-ho.github.io" target="_blank"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/></a>
+ <a href="https://www.linkedin.com/in/starho/0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1DA1F2?logo=LinkedIn&logoColor=white"/></a>
 </div>
