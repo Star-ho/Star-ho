@@ -3,7 +3,7 @@ Hello! I'm Sungho :wave:
  - 💼 I’m currently working on The Pirates
  - 🌱 I’m currently learning OOP
 
-## SKills
+## Skills
  - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-blueviolet?style=flat&logo=kotlin&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) 
