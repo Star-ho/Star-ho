@@ -1,7 +1,6 @@
 Hello! I'm Sungho :wave:
 ===========
- - 💼 I’m currently working on The Pirates
- - 🌱 I’m currently learning OOP
+ - 💼 I’m currently working on The Pirates(2019-10-18 ~ )
 
 ## Skills
  - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white) 
