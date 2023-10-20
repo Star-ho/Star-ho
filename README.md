@@ -1,4 +1,4 @@
-Hello! I'm Sungho :wave:
+# 백엔드 개발자 황성호입니다. :wave:
 ===========
  - 💼 I’m currently working on The Pirates(2019-10-18 ~ )
 
@@ -23,3 +23,6 @@ Hello! I'm Sungho :wave:
  <a href="http://star-ho.github.io" target="_blank"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github"/></a>
  <a href="https://www.linkedin.com/in/starho/0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1DA1F2?logo=LinkedIn&logoColor=white"/></a>
 </div>
+
+공부한것들을 제 두번째 뇌인 SSD에 기록하고 있습니다.
+### [GO SSD!](https://publish.obsidian.md/sungho-ssd)
