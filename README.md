@@ -1,5 +1,4 @@
 # 백엔드 개발자 황성호입니다. :wave:
-===========
  - 💼 I’m currently working on The Pirates(2019-10-18 ~ )
 
 ## Skills
