@@ -22,4 +22,4 @@
 </div>
 
 공부한것들을 제 두번째 뇌인 SSD에 기록하고 있습니다.
-### [GO SSD!](https://publish.obsidian.md/sungho-ssd)
+### [GO SSD!](https://sungho94.me)
